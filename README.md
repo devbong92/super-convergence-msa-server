@@ -1,4 +1,7 @@
-# 🎲 Holy Poly Moly 🎲
+<h1 align="center">
+  🎲 Holy Poly Moly 🎲
+  
+</h1>
 
 🎮 **게임 소개**
 - **Holy Poly Moly**는 2 ~ 4인의 플레이어가 온라인으로 즐기는 **👨‍👨‍👦‍👦멀티플레이 파티 게임**입니다!
