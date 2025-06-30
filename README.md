@@ -1,17 +1,4 @@
 # 🎲 Holy Poly Moly 🎲
-## 🔗 게임 링크
-<a href="https://super-convergence.itch.io/holypolymoly">
-  <img src="https://github.com/user-attachments/assets/7ff2c030-379c-4e31-8e1f-45f0e78da567" alt="itch" width="200">
-</a>
-
-## 🎤 프로젝트 소개
-<div align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/512a2dc1-3f43-4740-99d7-66a9a1567e70" />
-  <img width="37%" src="https://github.com/user-attachments/assets/a7171fa9-e266-42d7-87c2-9962953c21fc" />
-</div>
-
-
-> 프로젝트 제작 기간 : 2024.11.13(수) ~ 2024.12.22.(일)
 
 🎮 **게임 소개**
 - **Holy Poly Moly**는 2 ~ 4인의 플레이어가 온라인으로 즐기는 **👨‍👨‍👦‍👦멀티플레이 파티 게임**입니다!
@@ -26,6 +13,27 @@
 - 🧊 **미끌미끌 얼음판**: 끝까지 버텨라! 빙판 위의 서바이벌 전쟁!
 
 🎮 지금 친구들을 초대하고, **최고의 파티 게임**을 경험해보세요! ✨
+
+## 📹 시연 영상
+- [![Video Label](https://github.com/user-attachments/assets/9ce5b5fb-3f59-47ce-8bc2-261e943f98e4)](https://youtu.be/q831XY0uWjg?si=kBzPp3JVYHBiUZoU)
+- [Holy Poly Moly 시연 영상](https://www.youtube.com/watch?v=q831XY0uWjg)
+
+
+## 🔗 게임 링크
+<a href="https://super-convergence.itch.io/holypolymoly">
+  <img src="https://github.com/user-attachments/assets/7ff2c030-379c-4e31-8e1f-45f0e78da567" alt="itch" width="200">
+</a>
+
+## 🎤 프로젝트 소개
+<div align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/512a2dc1-3f43-4740-99d7-66a9a1567e70" />
+  <img width="37%" src="https://github.com/user-attachments/assets/a7171fa9-e266-42d7-87c2-9962953c21fc" />
+</div>
+
+
+> 프로젝트 제작 기간 : 2024.11.13(수) ~ 2024.12.22.(일)
+
+
 #### 📃 게임 진행 설명
 ```
 1️⃣ 게임은 보드 게임과 미니 게임 크게 두 가지로 나누어집니다.
@@ -105,8 +113,6 @@
 - [보드게임](https://www.notion.so/teamsparta/1622dc3ef51481f1b6fdd486ed7c7509?pvs=4)
 - [미니게임](https://www.notion.so/teamsparta/1622dc3ef51481acad1dedef56c86f91?pvs=4)
 
-## 📹 시연 영상
-- [Holy Poly Moly 시연 영상](https://www.youtube.com/watch?v=q831XY0uWjg)
 
 ## 🧩 프로젝트 로직
 - [게이트 및 Distributor](https://www.notion.so/teamsparta/Distributor-1622dc3ef514813ea758f2888875f57e?pvs=25)
